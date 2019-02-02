@@ -18,4 +18,4 @@ The url for the base datasets is :
 - https://www.kaggle.com/the-guardian/olympic-games#summer.csv
 - https://www.kaggle.com/the-guardian/olympic-games#dictionary.csv
 
-The file contains an interactive visulation of Olympic medals won by each country over years and also the no of medals won by both the genders seperately. The plots can seen by hovering on a country for which, you want to see the medal count. The world map displayed is a choropleth world map displayed. The choropleth maps present are based on Population and GDP percapita income.  
+Created an interactive visualization of Olympic medals won by each country over years and also the no of medals won by both the genders separately. The plots can be seen by hovering on a country for which, you want to see the medal count. The world map displayed is a choropleth world map displayed. The choropleth maps present are based on Population and GDP percapita income.
