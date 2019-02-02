@@ -1,4 +1,4 @@
-# Olympic-Visualzation
+# Olympic Visualization
 The dataset is about Olympics data from Year 1896 to 2012. The dataset was formed by combining two datasets :
 
 Dictionary.csv : This has the Country Name, Country Code, GDP per capita and the Population
