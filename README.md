@@ -11,7 +11,7 @@ The Dataset formed by combining these three datasets is called OLYMPICS Dataset.
 
 More than 35,000 medals have been awarded at the Olympics since 1896. The first two Olympiads awarded silver medals and an olive wreath for the winner, and the IOC retrospectively awarded gold, silver, and bronze to athletes based on their rankings. This dataset includes a row for every Olympic athlete that has won a medal since the first games.
 
-Data was provided by the IOC Research and Reference Service and published by The Guardian's Datablog.The dataset was obtained from Kaggle.com. It is an open dataset with authority to edit, update and modify the dataset. There is no license restriction on the dataset and can be used for recreation, editing, downloaing and distribution.
+Data was provided by the IOC Research and Reference Service and published by The Guardian's Datablog.The dataset was obtained from Kaggle.com. It is an open dataset with authority to edit, update and modify the dataset. There is no license restriction on the dataset and can be used for recreation, editing, downloaing and distribution. The Iso Dataset is created by fetching the ISO codes from internet and matching them with the worldmap json file.
 
 The url for the base datasets is :
 
